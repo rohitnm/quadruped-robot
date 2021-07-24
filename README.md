@@ -24,12 +24,14 @@ We started with developing different mechanisms for the Quadruped robot in order
 - Issues Encountered: 
   The robot did not make a succesful run since the robot's design was not stable. The legs of the robot were made using wood which added more weight to the robot. Also because of the pointy head of the robot's leg the design became unstable. Moreover, this mechanism does not provide much maneuverability and direction control on the robot as compared to other Quadruped Robots.
   
-  The robot must have only 4 points touching the ground, therefore 8 legs were not used or any other support was not provided.
+  The robot must have only 4 points touching the ground, therefore 8 legs were not used or any other support was not provided. Another drawback of using one motor for both sides was that the direction and speed control was not possible. In future the robot with two encoded motors can be effectively developed and can be implemented in real time. But after doing some studies we found that in our case a robot having four individual actuators for each leg with atleast two degrees of freedom would be effective.
   
   ![TheoJansenFail](https://user-images.githubusercontent.com/53998059/126879672-3348e0c2-983a-40ee-8b8d-3a5a02adaf9c.gif)
 
 ### Quadruped Robot - Stage 1
 
-  
+- Initially the robot was developed with four servo motors having tourque of 10kgcm. Thebody was made using simple acrylic to make it light weight and cost effective. The main aim was to make the robot as much cost effective as possible using minimal resources. The initial robot had only 1 degree of freedom. The legs did not provide a walking movement but were sliding on the surface.
+- After some succesful tries another four servo motors having same torque were added on the lower legs. This provided a two degree of freedom and the robot showed a significant progress in the walking gait. The foot of the robot was made using aluminum plates and were kept fixed.
+- The drawback of using this material for the robot was that it was very lightweight and was not sturdy. A simple blow of wind or a delay in movement of any leg toppled it very easily. Hence, a robot with material called as 'Plexiglass' was made. The servo motors used this time had a torque of 35kgcm.
   
  
