@@ -23,6 +23,12 @@ We started with developing different mechanisms for the Quadruped robot in order
 - Issues Encountered: 
   The robot did not make a succesful run since the robot's design was not stable. The legs of the robot were made using wood which added more weight to the robot. Also because of the pointy head of the robot's leg the design became unstable. Moreover, this mechanism does not provide much maneuverability and direction control on the robot as compared to other Quadruped Robots.
   
+  The robot must have only 4 points touching the ground, therefore 8 legs were not used or any other support was not provided.
+  
+  ![TheoJansenFail](https://user-images.githubusercontent.com/53998059/126879672-3348e0c2-983a-40ee-8b8d-3a5a02adaf9c.gif)
+
+### Quadruped Robot - Stage 1
+
   
   
  
