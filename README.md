@@ -14,6 +14,7 @@ We started with developing different mechanisms for the Quadruped robot in order
 ### [Theo Jansen Mechanism](https://en.wikipedia.org/wiki/Jansen%27s_linkage)
 
 - At first the robot using Theo Jansen mechanism was designed. To start with this design we made a small prototype as shown below, which was successful. For increased stability a wheel was attached at the back pof the robot.
+
   ![TheoJansenSmall31](https://user-images.githubusercontent.com/53998059/126877322-f8604abe-5dd5-46b8-bb70-f564340040c5.gif)
     
 - After first successful try same design was scaled to make an even bigger model of the robot. The movement of the bigger model was closley examined.
