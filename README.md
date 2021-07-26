@@ -51,6 +51,15 @@ We started with developing different mechanisms for the Quadruped robot in order
 
 - Here, the movement of the servo was kept in sync with the dc motor to get the exact possible motion and to increase the mobility of the robot. You can see that as the motor is moving the servo transposes it's angle to take a step and when the motor is perpendicular w.r.t ground, servo also comes to its initial position. This movement of the robot's leg was extremely necessary for the required walking gait.
 
+  ![Movement1](https://user-images.githubusercontent.com/53998059/126992042-a4a10214-89bd-4134-b054-5809a661d5b3.gif)
+
+#### Stage 3
+
+
+
+
+  
+
   
   
  
