@@ -28,7 +28,7 @@ We started with developing different mechanisms for the Quadruped robot in order
   
   ![TheoJansenBig6](https://user-images.githubusercontent.com/53998059/126878546-b650c14e-9d31-486e-91d5-7ae09ff1e3c3.gif)
   
-### Quadruped Robot
+### [Quadruped Robot](https://youtu.be/PoVmfRE1exM)
 
 #### Stage 1
 
@@ -55,6 +55,28 @@ We started with developing different mechanisms for the Quadruped robot in order
 
 #### Stage 3
 
+- After some successful trials and prototypes, the robot body was made using aluminum box pipes. The foot of the robot was made using wood. Wood was used here to provide a firm grip while walking and climbing the slope. The foot was kept as a non-controllable freely moving joint. The main advantage of the foot here was that it adjusted itself while moving. The design is kept as simple as possible with minimal weight. The servos used here has a torque of 60kgcm. With such design the robot had capability of performing all the mentioned tasks in the theme. Overall robot had 12 DOF with 3 DOF on each leg. The hip joint and knee joint were revolute joint and the foot joint was a freely moving continuous joint which cannot be controlled by the user. 
+- The robot also had a proximity sensor attached which helped the robot by giving signal after the robot has received the message from the other robot. Also, the climbing of the slope was monitored by an ROHM accelerometer KX224-1053 module. The accelerometer also indicated if the robot has finished climbing the slope or not. Arduino Due was used as the main microcontroller board.
+
+#### Walking
+
+#### Slope Climbing
+
+#### Bonus
+
+#### Issues Encountered
+
+- The servos used for the robot had horns attached to its teeth. When the leg of the robot used to get stcuk somewhere or had mcuh pressure on it then the horn would break since they are made up of cheap plastic material. Immediate replacement of the horn was needed.
+- In some worst case the teeth of the horn would get exhausted and would lose their threading. 
+- The servo motors used to draw a lot of current while climbing the slope. Excessive current consumption damages the servo motor and in some case will also damage the controller.
+- The stability of the quadruped is the main factor and if any weight is increased over any leg then the robot might not be able to walk properly.
+
+### About Team Robocon KJSIEIT
+
+We at Team Robocon KJSIEIT are budding engineers and robotics enthusiasts. We love making unique robots and are open to new challenges. Our team was founded in 2013 and achieved All India Rank 9th in 2017, 3rd in 2018 and 5th in 2020. Apart from this our team conducts seminars and give free lectures on Embedded Systems and Robotics.
+Follow us on
+[Youtube](https://www.youtube.com/channel/UChc-3cPhotoIvsTxlV0tOeg/featured)
+[Instagram](https://www.instagram.com/robocon.kjsieit/?igshid=1k97mgovnvzaa)
 
 
 
