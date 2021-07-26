@@ -60,18 +60,32 @@ We started with developing different mechanisms for the Quadruped robot in order
 
 #### Walking
 
+![Walking121](https://user-images.githubusercontent.com/53998059/127022274-83a304c9-df98-43b6-9dc1-9678b71af993.gif)
+
 #### Slope Climbing
+
+![Slope1](https://user-images.githubusercontent.com/53998059/127022352-44bbac30-09d0-4304-83c4-bb461a067cda.gif)
+
+*The hand is kept as a precautionary measure incase the robot falls or topples*
+
+#### CAD Model
+
+![Capture](https://user-images.githubusercontent.com/53998059/127025426-1c165ce7-e0f1-46eb-995e-c863c9b57a4d.JPG)
 
 #### Bonus
 
-Watch our full development video [here](https://youtu.be/PoVmfRE1exM)
+In some exercise mode ;)
+
+![Exercise1](https://user-images.githubusercontent.com/53998059/127024067-d3e9f5f7-9a74-44c7-96ed-e42881e7b995.gif)
+
+Watch the full development video [here](https://youtu.be/PoVmfRE1exM)
 
 #### Issues Encountered
 
 - The servos used for the robot had horns attached to its teeth. When the leg of the robot used to get stcuk somewhere or had mcuh pressure on it then the horn would break since they are made up of cheap plastic material. Immediate replacement of the horn was needed.
 - In some worst case the teeth of the horn would get exhausted and would lose their threading. 
 - The servo motors used to draw a lot of current while climbing the slope. Excessive current consumption damages the servo motor and in some case will also damage the controller.
-- The stability of the quadruped is the main factor and if any weight is increased over any leg then the robot might not be able to walk properly.
+- The stability of the quadruped robot is the main factor and if any weight is increased over any leg then the robot might not be able to walk properly.
 
 ### About Team Robocon KJSIEIT
 
