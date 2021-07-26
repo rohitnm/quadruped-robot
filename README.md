@@ -28,7 +28,7 @@ We started with developing different mechanisms for the Quadruped robot in order
   
   ![TheoJansenBig6](https://user-images.githubusercontent.com/53998059/126878546-b650c14e-9d31-486e-91d5-7ae09ff1e3c3.gif)
   
-### [Quadruped Robot](https://youtu.be/PoVmfRE1exM)
+### Quadruped Robot
 
 #### Stage 1
 
@@ -63,6 +63,8 @@ We started with developing different mechanisms for the Quadruped robot in order
 #### Slope Climbing
 
 #### Bonus
+
+Watch our full development video [here](https://youtu.be/PoVmfRE1exM)
 
 #### Issues Encountered
 
