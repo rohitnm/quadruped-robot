@@ -74,9 +74,10 @@ We started with developing different mechanisms for the Quadruped robot in order
 ### About Team Robocon KJSIEIT
 
 We at Team Robocon KJSIEIT are budding engineers and robotics enthusiasts. We love making unique robots and are open to new challenges. Our team was founded in 2013 and achieved All India Rank 9th in 2017, 3rd in 2018 and 5th in 2020. Apart from this our team conducts seminars and give free lectures on Embedded Systems and Robotics.
+
 Follow us on
-[Youtube](https://www.youtube.com/channel/UChc-3cPhotoIvsTxlV0tOeg/featured)
-[Instagram](https://www.instagram.com/robocon.kjsieit/?igshid=1k97mgovnvzaa)
+- [Youtube](https://www.youtube.com/channel/UChc-3cPhotoIvsTxlV0tOeg/featured)
+- [Instagram](https://www.instagram.com/robocon.kjsieit/?igshid=1k97mgovnvzaa)
 
 
 
