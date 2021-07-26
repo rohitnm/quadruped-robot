@@ -6,7 +6,7 @@ The project involves the overall development of the quadruped robot and its work
 3. Waling over a Rope
 4. Climbing a 15° Slope.
 
-This project was created by TEAM ROBOCON KJSIEIT which comprised of total 20 members.
+This is a group project and is created by TEAM ROBOCON KJSIEIT which involved 20 members.
 
 ## Development of the Robot
 We started with developing different mechanisms for the Quadruped robot in order to find the best suitable design of the robot in order to complete the required tasks.
@@ -94,6 +94,7 @@ We at Team Robocon KJSIEIT are budding engineers and robotics enthusiasts. We lo
 Follow us on
 - [Youtube](https://www.youtube.com/channel/UChc-3cPhotoIvsTxlV0tOeg/featured)
 - [Instagram](https://www.instagram.com/robocon.kjsieit/?igshid=1k97mgovnvzaa)
+
 
 
 
