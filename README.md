@@ -31,7 +31,12 @@ We started with developing different mechanisms for the Quadruped robot in order
 ### Quadruped Robot - Stage 1
 
 - Initially the robot was developed with four servo motors having tourque of 10kgcm. Thebody was made using simple acrylic to make it light weight and cost effective. The main aim was to make the robot as much cost effective as possible using minimal resources. The initial robot had only 1 degree of freedom. The legs did not provide a walking movement but were sliding on the surface.
-- After some succesful tries another four servo motors having same torque were added on the lower legs. This provided a two degree of freedom and the robot showed a significant progress in the walking gait. The foot of the robot was made using aluminum plates and were kept fixed.
-- The drawback of using this material for the robot was that it was very lightweight and was not sturdy. A simple blow of wind or a delay in movement of any leg toppled it very easily. Hence, a robot with material called as 'Plexiglass' was made. The servo motors used this time had a torque of 35kgcm.
+- After some succesful tries another four servo motors having same torque were added on the lower legs. This provided a two degree of freedom for knee and hip joint. The robot showed a significant progress in the walking gait. The foot of the robot was made using aluminum plates and were kept fixed. The controller used here is Arduino Mega2560.
+
+  ![WalkingAcrylic](https://user-images.githubusercontent.com/53998059/126984543-ddfb44b1-54b8-4577-8953-75538a39cab6.gif)
+  
+- The drawback of using this material for the robot was that it was very lightweight and was not sturdy. A simple blow of wind or a delay in movement of any leg toppled it very easily. Hence, a robot with material called as 'Plexiglass' was made. The servo motors used this time had a torque of 35kgcm. Since the robot was heavier than previously built one, servo motors with higher torque were used.
+
+  
   
  
