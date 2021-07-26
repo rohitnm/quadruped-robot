@@ -17,17 +17,17 @@ We started with developing different mechanisms for the Quadruped robot in order
 
   ![TheoJansenSmall31](https://user-images.githubusercontent.com/53998059/126877322-f8604abe-5dd5-46b8-bb70-f564340040c5.gif)
     
-- After first successful try same design was scaled to make an even bigger model of the robot. The movement of the bigger model was closley examined.
+- After first successful try same design was scaled to make an even bigger model of the robot.
 
-  ![TheoJansenBig6](https://user-images.githubusercontent.com/53998059/126878546-b650c14e-9d31-486e-91d5-7ae09ff1e3c3.gif)
+  ![TheoJansenFail](https://user-images.githubusercontent.com/53998059/126879672-3348e0c2-983a-40ee-8b8d-3a5a02adaf9c.gif)
 
 - Issues Encountered: 
   The robot did not make a succesful run since the robot's design was not stable. The legs of the robot were made using wood which added more weight to the robot. Also because of the pointy head of the robot's leg the design became unstable. Moreover, this mechanism does not provide much maneuverability and direction control on the robot as compared to other Quadruped Robots.
   
-  The robot must have only 4 points touching the ground, therefore 8 legs were not used or any other support was not provided. Another drawback of using one motor for both sides was that the direction and speed control was not possible. In future the robot with two encoded motors can be effectively developed and can be implemented in real time. But after doing some studies we found that in our case a robot having four individual actuators for each leg with atleast two degrees of freedom would be effective.
+  The robot must have only 4 points touching the ground, therefore 8 legs were not used or any other support was not provided. Another drawback of using one motor for both sides was that the direction and speed control was not possible. In future the robot with two encoded motors can be effectively developed as shown below and can be implemented in real time. But after doing some studies we found that in our case a robot having four individual actuators for each leg with atleast two degrees of freedom would be effective.
   
-  ![TheoJansenFail](https://user-images.githubusercontent.com/53998059/126879672-3348e0c2-983a-40ee-8b8d-3a5a02adaf9c.gif)
-
+  ![TheoJansenBig6](https://user-images.githubusercontent.com/53998059/126878546-b650c14e-9d31-486e-91d5-7ae09ff1e3c3.gif)
+  
 ### Quadruped Robot - Stage 1
 
 - Initially the robot was developed with four servo motors having tourque of 10kgcm. Thebody was made using simple acrylic to make it light weight and cost effective. The main aim was to make the robot as much cost effective as possible using minimal resources. The initial robot had only 1 degree of freedom. The legs did not provide a walking movement but were sliding on the surface.
